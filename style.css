@@ -100,6 +100,7 @@ font-weight: 700;
     background-color:#222f3d ;
     display: flex;
     color: white;
+    
     align-items: center;
     justify-content: space-evenly;
 }
@@ -109,7 +110,7 @@ margin-left: 15px;
 }
 .panel-option{
     width: 70%;
-    font-size: 0.85rem;
+    font-size: 1rem;
 
 }
 .panel-deals{
